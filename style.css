@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+    
+}
+
+h1{
+    color:midnightblue;
+    
+}
+h2{
+    color:cornflowerblue;
+    
+}
+p{
+    
+    color:darkcyan;
+}
+body{
+    background-color: gainsboro;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif
+    
+}
+img {
+    border-color: darkred;
+    border-style:groove;
+}
+p { 
+    font-family:Arial, Helvetica, sans-serif
+}
+h1 {
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+}
